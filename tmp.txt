@@ -1,0 +1,24 @@
+#block-white-content > div > div > nav > div
+#block-white-content > div > div > div > ul
+#block-white-content > div > div > div > ul > li > a
+#block-white-content > article > div.node-content > div > div > div > div > div > ul > li > div > a
+
+#block-white-content > article > div.node-content > div > div > div > div > div > ul > li
+
+#block-white-content > article > div > div > div > div.eleven.wide.column > div.node-overview.clearfix > div.node-detail > div.clearfix > div.node-title > h1 > span
+
+
+#block-white-content > article > div > div > div > div.eleven.wide.column > div.node-overview.clearfix > div.node-detail > div.clearfix > div.title-right > div.out-links > a.douban
+
+#block-white-content > article > div > div > div > div.eleven.wide.column > div.node-overview.clearfix > div.node-detail > div.clearfix > div.title-right > div.out-links > a.imdb
+
+#block-white-content > article > div > div > div > div.eleven.wide.column > div.reference-torrent
+
+#block-white-content > article > div > div > div > div.eleven.wide.column > div.reference-torrent > div:nth-child(1)
+
+div > div > table > tbody
+td.views-field.views-field-nothing.views-align-center
+
+https://movie.douban.com/subject/
+
+https://www.imdb.com/title/
